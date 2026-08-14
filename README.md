@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nehalikareddy/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nehalikareddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/nehalikareddy/Leetcode/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nehalikareddy/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehalikareddy/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehalikareddy/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -100,8 +101,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nehalikareddy/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/nehalikareddy/Leetcode/tree/master/0202-happy-number) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nehalikareddy/Leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nehalikareddy/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
