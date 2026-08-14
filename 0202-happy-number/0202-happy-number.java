@@ -5,9 +5,9 @@ class Solution {
         while(n!=1){
             if(set.contains(n)){
                 return false;
-            }
+            }set.add(n);
             int sum = 0;
-            set.add(n);
+            
             while(n>0){
                 int digit = n%10;
                 sum += digit * digit;
