@@ -77,16 +77,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nehalikareddy/Leetcode/tree/master/0066-plus-one) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
