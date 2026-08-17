@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0100-same-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nehalikareddy/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
