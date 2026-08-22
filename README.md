@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nehalikareddy/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/nehalikareddy/Leetcode/tree/master/0202-happy-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nehalikareddy/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search Tree
 |  |
 | ------- |
