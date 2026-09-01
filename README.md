@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nehalikareddy/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehalikareddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/nehalikareddy/Leetcode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/nehalikareddy/Leetcode/tree/master/1046-last-stone-weight) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nehalikareddy/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nehalikareddy/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/nehalikareddy/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
