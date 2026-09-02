@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nehalikareddy/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nehalikareddy/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nehalikareddy/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nehalikareddy/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nehalikareddy/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/nehalikareddy/Leetcode/tree/master/0202-happy-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nehalikareddy/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nehalikareddy/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search Tree
 |  |
 | ------- |
