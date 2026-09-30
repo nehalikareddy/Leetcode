@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nehalikareddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/nehalikareddy/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/nehalikareddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nehalikareddy/Leetcode/tree/master/0853-car-fleet) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/nehalikareddy/Leetcode/tree/master/1046-last-stone-weight) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nehalikareddy/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/nehalikareddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nehalikareddy/Leetcode/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/nehalikareddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nehalikareddy/Leetcode/tree/master/0853-car-fleet) |
 ## Prefix Sum
 |  |
