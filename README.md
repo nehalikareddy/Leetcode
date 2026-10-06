@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nehalikareddy/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/nehalikareddy/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehalikareddy/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/nehalikareddy/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehalikareddy/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehalikareddy/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nehalikareddy/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehalikareddy/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nehalikareddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nehalikareddy/Leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehalikareddy/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nehalikareddy/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehalikareddy/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nehalikareddy/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
