@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nehalikareddy/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/nehalikareddy/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nehalikareddy/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/nehalikareddy/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/nehalikareddy/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nehalikareddy/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nehalikareddy/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nehalikareddy/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/nehalikareddy/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nehalikareddy/Leetcode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
