@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/nehalikareddy/Leetcode/tree/master/0853-car-fleet) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/nehalikareddy/Leetcode/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nehalikareddy/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehalikareddy/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nehalikareddy/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nehalikareddy/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nehalikareddy/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nehalikareddy/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nehalikareddy/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nehalikareddy/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nehalikareddy/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
