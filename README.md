@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/nehalikareddy/Leetcode/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehalikareddy/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehalikareddy/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nehalikareddy/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/nehalikareddy/Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehalikareddy/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehalikareddy/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nehalikareddy/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/nehalikareddy/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehalikareddy/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nehalikareddy/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nehalikareddy/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/nehalikareddy/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/nehalikareddy/Leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/nehalikareddy/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nehalikareddy/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nehalikareddy/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/nehalikareddy/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nehalikareddy/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
