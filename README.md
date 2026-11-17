@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nehalikareddy/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nehalikareddy/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehalikareddy/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehalikareddy/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nehalikareddy/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nehalikareddy/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nehalikareddy/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/nehalikareddy/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nehalikareddy/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nehalikareddy/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehalikareddy/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nehalikareddy/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/nehalikareddy/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/nehalikareddy/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nehalikareddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nehalikareddy/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nehalikareddy/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nehalikareddy/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
